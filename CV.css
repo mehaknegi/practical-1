@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vitae</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <img style ="width: 10%;" "
+ text-align:right;" src="DocScanner Jul 29, 2024 09-08.jpg" class="passport-photo">
+            <h1>Mehak Negi</h1>
+            <p>CSE Student (2nd year)</p>
+        </div>
+    </header>
+    
+    <main>
+        <section class="contact-info">
+            <h2>Contact Information</h2>
+            <p>Email: mehaknegi09@gmail.com</p>
+            <p>Phone: +91 9457XXXXXX</p>
+            <p style = "text:align-center;">LinkedIn: linkedin.com/in/mehaknegi09</p>
+        </section>
+        
+        <section class="education">
+            <h2>Education</h2>
+            <ul>
+                <li><strong>Bachelor of Science in Computer Science</strong>, CCET (2023-2027)</li>
+                
+            </ul>
+        </section>
+        
+        <section class="experience">
+            <h2>Professional Experience</h2>
+            <ul>
+                <li><strong>Software Engineer</strong>, Example Corp (2021-Present)
+                    <ul>
+                        <li>Developed web applications using HTML, CSS, and JavaScript.</li>
+                        
+                    </ul>
+                </li>
+            </ul>
+        </section>
+        
+        <section class="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML, CSS, </li>
+                
+            </ul>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 Mehak Negi</p>
+    </footer>
+</body>
+</html>
